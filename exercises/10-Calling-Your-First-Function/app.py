@@ -4,3 +4,10 @@ def is_odd(my_number):
 
 def my_main_code():
     # your code here
+    if is_odd != 0:
+        return True
+    
+
+print(is_odd(45345))
+
+

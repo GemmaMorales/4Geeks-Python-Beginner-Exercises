@@ -3,8 +3,8 @@ def standards_maker():
     standard = "I will write questions if I am stuck."
     for x in range(301):
         print(standard)
-        return
+        
         
 
 #remember to call the function outside (here)
-print(standards_maker())
+standards_maker()

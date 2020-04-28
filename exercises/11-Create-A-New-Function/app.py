@@ -13,4 +13,4 @@ def generate_random():
     print(rand_num)
     return(rand_num)
 
-print(generate_random())
+(generate_random())
